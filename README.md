@@ -1,4 +1,4 @@
-# Sales_Analysis_Chocolate_Excel
+# Sales Analysis of 'Awesome Chocolate'
 
 ### Project Overview
 
