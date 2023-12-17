@@ -13,7 +13,13 @@ The source data contained 2 tables:
 
 An exploratory data analysis was performed on the data available and came up with the following reports:
 
+- Sales report- Region wise
+
 ![chocolate2](https://github.com/nadirquamer/Sales_Analysis_Chocolate_Excel/assets/46354703/1b1b640d-1925-4fde-94d5-0cbbe59c6fd5)
+
+- Sales distribution- Product wise
+
+![Chocolate4](https://github.com/nadirquamer/Sales_Analysis_Chocolate_Excel/assets/46354703/c629ff5c-2274-4b90-9f9e-0b755066f311)
 
 
 
