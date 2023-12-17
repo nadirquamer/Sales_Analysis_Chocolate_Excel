@@ -9,8 +9,8 @@ The source data contained 2 tables:
 1. Sales Data
 2. Cost Price of Products
 
-### Operation performed
-
+### Operations performed
+- Vlookup, Hlookup- For combining table
 - Descriptive Statistics, EDA, Formulas, PivotTable - For Analysis
 - conditional formatting and other visualization techniques- For Presentation
 
