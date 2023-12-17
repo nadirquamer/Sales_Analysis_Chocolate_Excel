@@ -9,6 +9,11 @@ The source data contained 2 tables:
 1. Sales Data
 2. Cost Price of Products
 
+### Operation performed
+
+- Descriptive Statistics, EDA, Formulas, PivotTable - For Analysis
+- conditional formatting and other visualization techniques- For Presentation
+
 ### Reports
 
 An exploratory data analysis was performed on the data available and came up with the following reports:
